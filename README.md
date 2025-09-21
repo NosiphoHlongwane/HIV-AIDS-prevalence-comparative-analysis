@@ -21,13 +21,9 @@ It covers:
 
 ## Dataset
 The dataset includes:
-
 - HIV prevalence rates (%)
-
 - Number of HIV cases
-
 - Annual HIV-related deaths
-
 Source: [Dataset extracted from Kaggle:HIV Prevalance study.csv]
 
 ## Tools Used
