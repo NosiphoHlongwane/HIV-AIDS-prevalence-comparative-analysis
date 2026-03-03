@@ -5,7 +5,7 @@ This project analyses global HIV prevalence, infection burden, and HIV-related m
 This study does not focus only on total cases or deaths, it also introduces a standardised mortality metric — Deaths per 1000 Infected — to evaluate treatment effectiveness and healthcare system performance.
 
 The analysis supports evidence-based decision-making for global health organisations seeking to prioritise funding, intervention strategies, and treatment expansion.
----
+
 ## Business Problem
 Global health organisations must determine:
 
