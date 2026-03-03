@@ -1,4 +1,4 @@
-# Global HIV Mortality and Prevalance Analysis
+# Global HIV Mortality and Prevalance Analysis &ne; 
 
 This project analyses global HIV prevalence, infection burden, and HIV-related mortality to identify disparities in healthcare effectiveness across countries.
 
