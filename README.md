@@ -75,12 +75,13 @@ Correlation analysis shows:
 ## Business Impact 
 #### This analysis provides:
 
-A standardised mortality metric for cross-country comparison
-A method to identify high-risk healthcare systems
-Insights to guide funding prioritization
-A framework for evaluating HIV treatment effectiveness
+- A standardised mortality metric for cross-country comparison
+- A method to identify high-risk healthcare systems
+- Insights to guide funding prioritization
+- A framework for evaluating HIV treatment effectiveness
 
 ### The model can support organizations such as:
+
 - World Health Organization
 - UNAIDS
 - The Global Fund
