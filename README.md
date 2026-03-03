@@ -42,7 +42,7 @@ Source: [Dataset extracted from Kaggle:HIV Prevalance study.csv]
 ### Feature Engineering
  #### Deaths per 1000 infected
 
-Deaths per 1000=Total InfectedAnnual Deaths​×1000 
+Deaths per 1000=Total Infected/Annual Deaths​×1000 
 
 ## Exploratory Data Analysis 
 - Top 10 countries by prevalence
@@ -61,7 +61,7 @@ Findings show that while prevalence correlates with deaths, mortality is strongl
 
 ## Key Findings
 ### 1. High prevalenvce ≠ High Mortality
-Countries like South Africa show high prevalence but relatively lower deaths per 1000 infected compared to some lower-prevalence countries — indicating stronger treatment systems.
+Countries like South Africa show high prevalence but relatively lower deaths per 1000 infected compared to some lower-prevalence countries, this is an indication of the stronger treatment system that South Africa has.
 
 ### 2. Disproportionate Mortality in Some Countries
 Several countries with moderate prevalence exhibit high mortality per 1000 infected, suggesting limited access to antiretroviral therapy.
@@ -78,15 +78,17 @@ This analysis provides:
 
 - A standardised mortality metric for cross-country comparison
 - A method to identify high-risk healthcare systems
-- Insights to guide funding prioritization
+- Insights to guide funding prioritisation
 - A framework for evaluating HIV treatment effectiveness
 
-The model can support organizations such as:
+Organisations such as:
 
-- World Health Organization
+- World Health Organisation
 - UNAIDS
 - The Global Fund
-  
+
+can benefit from this study
+
 *As a way of allocating resources strategically.*
 
 ## Future Improvements
