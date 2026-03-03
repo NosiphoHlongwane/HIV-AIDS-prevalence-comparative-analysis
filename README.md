@@ -21,6 +21,7 @@ The dataset includes 193 countries and contains:
 - Number of people living with HIV
 - Annual HIV-related deaths
 - Year of estimate
+  
 Source: [Dataset extracted from Kaggle:HIV Prevalance study.csv]
 
 ## Tools & Technologies Used
@@ -73,18 +74,19 @@ Correlation analysis shows:
 - This reinforces the importance of healthcare capacity.
 
 ## Business Impact 
-#### This analysis provides:
+This analysis provides:
 
 - A standardised mortality metric for cross-country comparison
 - A method to identify high-risk healthcare systems
 - Insights to guide funding prioritization
 - A framework for evaluating HIV treatment effectiveness
 
-### The model can support organizations such as:
+The model can support organizations such as:
 
 - World Health Organization
 - UNAIDS
 - The Global Fund
+  
 *As a way of allocating resources strategically.*
 
 ## Future Improvements
